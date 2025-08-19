@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir /tmp/h/welcome/to/school
+mkdir ./welcome
+mkdir ./welcome/to/school
